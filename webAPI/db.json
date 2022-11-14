@@ -41,12 +41,6 @@
       "last_name": "Carvalho",
       "id": 7,
       "subjectId": 2
-    },
-    {
-      "first_name": "Vitor",
-      "last_name": "Moreira",
-      "id": 8,
-      "subjectId": 2
     }
   ],
   "subjects": [
