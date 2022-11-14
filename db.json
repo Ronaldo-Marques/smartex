@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "first_name": "Ronaldo",
+      "last_name": "Marques",
+      "id": 1,
+      "subjectId": 1
+    },
+    {
+      "first_name": "Ana",
+      "last_name": "Luisa",
+      "id": 2,
+      "subjectId": 2
+    },
+    {
+      "first_name": "Sofia",
+      "last_name": "Batina",
+      "id": 3,
+      "subjectId": 1
+    },
+    {
+      "first_name": "Joao",
+      "last_name": "Santos",
+      "id": 4,
+      "subjectId": 2
+    },
+    {
+      "first_name": "Rui",
+      "last_name": "Marques",
+      "id": 5,
+      "subjectId": 1
+    },
+    {
+      "first_name": "Linda",
+      "last_name": "Carvalho",
+      "id": 5,
+      "subjectId": 1
+    },
+    {
+      "first_name": "Claudia",
+      "last_name": "Carvalho",
+      "id": 6,
+      "subjectId": 2
+    },
+    {
+      "first_name": "Vitor",
+      "last_name": "Moreira",
+      "id": 7,
+      "subjectId": 2
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Automation",
+      "id": "1"
+    },
+    {
+      "name": "devOps",
+      "id": "2"
+    }
+  ]
+}
